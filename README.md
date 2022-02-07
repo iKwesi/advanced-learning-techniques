@@ -1,3 +1,5 @@
+[![Advanced Testing with GitHub Actions](https://github.com/iKwesi/advanced-learning-techniques/actions/workflows/main.yml/badge.svg)](https://github.com/iKwesi/advanced-learning-techniques/actions/workflows/main.yml)
+
 # advanced-learning-techniques
 This is a repo for doing advanced testing
 
