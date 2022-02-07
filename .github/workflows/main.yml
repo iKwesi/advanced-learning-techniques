@@ -34,4 +34,7 @@ jobs:
       - name: Lint with python
         run: |
           make lint
+      name: Test with python
+        run: |
+          make test
 
